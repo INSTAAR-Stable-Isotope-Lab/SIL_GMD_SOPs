@@ -1,1 +1,1 @@
-# SIL_GMD_SOPs
+Here you will find instructions and files for data management of the INSTAAR Stable Isotope Lab's NOAA work.
